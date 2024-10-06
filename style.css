@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+body{
+    background-image: url(./Assests/About\ us.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar{
+    background-color:transparent !important;
+}
+.nav-links-container {
+    background-color: blue; 
+    border-radius: 5px;
+    padding: 5px; 
+}
+.nav-link {
+    color: white;
+    padding: 10px 15px; 
+}
+.nav-link:hover {
+    background-color: darkblue; 
+    border-radius: 5px; 
+}
